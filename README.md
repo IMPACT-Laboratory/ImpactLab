@@ -5,6 +5,6 @@
 
   # zachayers70-commits's Website
 
-  Visit **[zachayers70-commits.github.io/IMPACT-Lab](https://zachayers70-commits.github.io/IMPACT-Lab)** 🚀
+  Visit **[impact-laboratory.github.io/IMPACTLab](https://impact-laboratory.github.io/IMPACTLab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
